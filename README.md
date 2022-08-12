@@ -4,13 +4,15 @@
 ___
 ## PROJECT DESCRIPTION
 The Project Dataset collected consists of 15,001 rows under 12 columns namely: Order ID, Order Date, Unit Cost, Unit Price, Order Qty, Channel, Promotion Name, Product Name, Product Subcategory, Product Category, State and Zone. The Electronics company operates in the 36 States of Nigeria and has been in operation for good four (4) years as the data tells.
+
+I extracted, wrangled, and transformed the data to get it ready for the analysis. I used the Business Intelligence tool, Power BI to perform the ETL (Extract, Transform and Load), Data Query and EDA (Exploratory Data Analysis) and Data Visualization.
 ___
 ## DATA SOURCE
 The Data used for this analysis was downloaded from Github. Link below:
 - https://github.com/Fabulousnani/Data-Developer-Bootcamp/blob/main/Electronic%20Sales.xlsx
 ___
 ## PROBLEM STATEMENT
-
+The Business problem is the recent quick drop in their Profit. Through my analysis, I want to see the root cause of this incident and proffer a workable solution.
 ___
 ## DATA/DESIGN METHODOLOGY
 I downloaded the raw file dataset to my PC from Github, hence creating a folder to serve as my Datalake.
@@ -36,7 +38,9 @@ ___
 2.	The business has scaled her sales in the Category of Products with Computers, Camera and Camcorders making the most Sales everywhere, unlike Audio making the least of sales. 
 3.	The 'No Discount' Promotion Name has the highest generated Profit everywhere.
 4.	Ebonyi has the most generated Profit.
-5.	I discovered that as of November 2014 Total Cost dropped from 
+5. I discovered that as of November 2014 Total Cost dropped from 634,123.58naira to 69,580.03naira i.e., 89.03% drop in a space of one month; thinking it was a heavy withdrawal from the business, the ‘Order Qty and Total Cost’ by year chart proved the idea abortive.
+6.	Also, the ‘Profit and Total Cost by Year’ chart tells that the business is still quite profitable and the quick drop in Profit as of November 2014 from 850,589.58naira to 94,303.76naira i.e., 88.91% drop in a space of one month wasn’t fully caused by the drop in the Total Cost since the Order Qty didn’t drop.
+7.	I realized that the relationship between the Total Cost and the Order Qty over the years is not progressive in nature. The Order Qty tends to remain constant whereas the Total Cost spiked in the second year of the business with over 1700% change.
 ___
 ## RECOMMENDATION
 
