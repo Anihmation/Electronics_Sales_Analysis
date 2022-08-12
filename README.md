@@ -1,9 +1,9 @@
 ![Electronics Sales Analysis Picture](https://user-images.githubusercontent.com/78387629/184169202-c2157cc1-09dc-43b1-99e3-50acd53a494e.jpg)
 # ELECTRONICS_SALES_ANALYSIS
- A virtual Electronics Company Analysis. The Electronics company operates in the 36 States of Nigeria and has been in operation for four (4) years.
+ A virtual Electronics Company Analysis.
 ___
 ## PROJECT DESCRIPTION
-
+The Project Dataset collected consists of 15,001 rows under 12 columns namely: Order ID, Order Date, Unit Cost, Unit Price, Order Qty, Channel, Promotion Name, Product Name, Product Subcategory, Product Category, State and Zone. The Electronics company operates in the 36 States of Nigeria and has been in operation for good four (4) years as the data tells.
 ___
 ## DATA SOURCE
 The Data used for this analysis was downloaded from Github. Link below:
@@ -14,7 +14,7 @@ ___
 ___
 ## DATA/DESIGN METHODOLOGY
 I downloaded the raw file dataset to my PC from Github, hence creating a folder to serve as my Datalake.
-I then created a Power BI file to consolidate the data. I used Power BI to Explore, Transform and Load (ETL) the data. I also used the tool to carryout my Exploratory Data Analysis (EDA) and Data Visualization.
+I then created a Power BI file to consolidate the data. I used Power BI to Explore, Transform and Load (ETL) the data. Herein I used the Power Query to clean the data as ought, which resulted in loading a Table of 15,000 rows only. I also used the tool to carryout my Exploratory Data Analysis (EDA) and Data Visualization.
 
 After connecting the Excel Workbook to the Power BI in the Model Page, I opened the Data Page where I carried out some DAX (Data Analysis Expressions) to ascertain variables that will help my analysis namely: the Sales, Total Cost, Profit and Status. Afterwards I built the Data Visualizations in the Report Page. There also I did some formatting to the visuals, choosing the most suitable visual to present the Data such as the Filled Map to ascertain the top 10 States by Profit. I also introduced slicers to enhance my visuals.
 I also created a bookmark with the button to enable readers load or close some information on the Cost and Profit Report Page, this was done to enhance the loading time of the page.
@@ -34,7 +34,7 @@ ___
 ![Cost and Profit Report](https://user-images.githubusercontent.com/78387629/184326729-a794e903-acc4-4392-8604-1759e5775aea.jpg)
 1. Throughout the business lifetime the customers transacted via different channels. In FCT, North East and North West customers transacted through the Store channel only; In the North Central, customers explored three different channels in their transactions namely: Online, Reseller and Store; In the South East, customers explored three different channels in their transactions namely: Store, Catalog and Online; whereas In the South South and South West, customers used just two channels namely: Store and Reseller.
 2.	The business has scaled her sales in the Category of Products with Computers, Camera and Camcorders making the most Sales everywhere, unlike Audio making the least of sales. 
-3.	No Discount Promotion Name has the highest generated Profit everywhere.
+3.	The 'No Discount' Promotion Name has the highest generated Profit everywhere.
 4.	Ebonyi has the most generated Profit.
 5.	I discovered that as of November 2014 Total Cost dropped from 
 ___
@@ -45,7 +45,7 @@ ___
 
 ___
 #### ATTRIBUTION
-1. The plus and minus button icon I used in my visuals is attributed to Repopng.
+1. The plus and minus button icon I used in my visuals is attributed to PNGRepo.
 2. The color schemes are attributed Adobe and Coolors.
 3. The dataset I used for the work is attributed to Mr Fabulousnani.
 
