@@ -37,13 +37,16 @@ ___
 1. Throughout the business lifetime the customers transacted via different channels. In FCT, North East and North West customers transacted through the Store channel only; In the North Central, customers explored three different channels in their transactions namely: Online, Reseller and Store; In the South East, customers explored three different channels in their transactions namely: Store, Catalog and Online; whereas In the South South and South West, customers used just two channels namely: Store and Reseller.
 2.	The business has scaled her sales in the Category of Products with Computers, Camera and Camcorders making the most Sales everywhere, unlike Audio making the least of sales. 
 3.	The 'No Discount' Promotion Name has the highest generated Profit everywhere.
-4.	Ebonyi has the most generated Profit.
+4.	•	Ebonyi has the most generated Profit, followed by Kwara and Delta State.
 5. I discovered that as of November 2014 Total Cost dropped from 634,123.58naira to 69,580.03naira i.e., 89.03% drop in a space of one month; thinking it was a heavy withdrawal from the business, the ‘Order Qty and Total Cost’ by year chart proved the idea abortive.
 6.	Also, the ‘Profit and Total Cost by Year’ chart tells that the business is still quite profitable and the quick drop in Profit as of November 2014 from 850,589.58naira to 94,303.76naira i.e., 88.91% drop in a space of one month wasn’t fully caused by the drop in the Total Cost since the Order Qty didn’t drop.
 7.	I realized that the relationship between the Total Cost and the Order Qty over the years is not progressive in nature. The Order Qty tends to remain constant whereas the Total Cost spiked in the second year of the business with over 1700% change.
 ___
 ## RECOMMENDATION
-
+- With the regards to the recent steep drop in the Profit generated which cannot be independently interpreted by the sharp drop in Total Cost, I highly recommend a thorough review of the Total Cost in relation to the Order Qty. If the relationship between Total Cost and Order Qty becomes a progressive one, it will be healthy for the business.
+- As the more people have adopted the Global era of the internet, the business should do more Promotions in favor of the online channel created.
+- August, Easter, and Harmattan Promotions needs to be reviewed, being the least Promotions generating Profit.
+- The business should review these Product Categories: Cellphones, Music, Movies and Audio Books, and Audio; being the least Profit generating Product Categories.
 ___
 ### CONCLUSION
 
