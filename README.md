@@ -45,5 +45,9 @@ ___
 
 ___
 #### ATTRIBUTION
+1. The plus and minus button icon I used in my visuals is attributed to Repopng.
+2. The color schemes are attributed Adobe and Coolors.
+3. The dataset I used for the work is attributed to Mr Fabulousnani.
 
+[@githubFabulousnani](https://github.com/Fabulousnani/Fabulousnani) for putting up the Data Developer bootcamp 1st edition; providing us with Datasets to practice and equipping us from his wealth of Knowledge. Thank you so much Sir.
 ___
