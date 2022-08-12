@@ -49,7 +49,7 @@ ___
 - The business should review these Product Categories: Cellphones, Music, Movies and Audio Books, and Audio; being the least Profit generating Product Categories.
 ___
 ### CONCLUSION
-
+In conclusion, I will say if all these recommendations of mine are implemented squarely, the business revenue will improve greatly, and the business will boom once more. As we can see how the data analysis has proven pertinent to determining the problem of the business and proven the recommendations a fact to revamping the business glory.
 ___
 #### ATTRIBUTION
 1. The plus and minus button icon I used in my visuals is attributed to PNGRepo.
